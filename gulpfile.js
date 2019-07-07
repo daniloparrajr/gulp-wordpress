@@ -10,8 +10,7 @@ var themeName = 'humescores',
     imageMin = require('gulp-imagemin'),
     sourceMaps = require('gulp-sourcemaps'),
     uglify = require('gulp-uglify'),
-    newer = require('gulp-newer'),
-    changed = require('gulp-change');
+    newer = require('gulp-newer');
 
 var root = '../' + themeName + '/',
     scss = root + 'sass/',
