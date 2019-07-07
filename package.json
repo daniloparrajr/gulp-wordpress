@@ -1,0 +1,27 @@
+{
+  "name": "gulp-wordpress",
+  "version": "1.0.0",
+  "description": "a wordpress development script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloparrajr/gulp-wordpress.git"
+  },
+  "author": "Danilo Parra Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniloparrajr/gulp-wordpress/issues"
+  },
+  "homepage": "https://github.com/daniloparrajr/gulp-wordpress#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-dart-sass": "^0.9.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
